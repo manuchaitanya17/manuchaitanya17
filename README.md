@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kanav Arora</h1>
+<h1 align="center">Hi, I'm Manu Chaitanya</h1>
 <h3 align="center">B.Tech student at Bennett University</h3>
 
 
@@ -12,9 +12,9 @@
  
  🌱 I’m currently learning **MERN Stack**
 
- 💬 Ask me about **HTRML, CSS, JavaScript, MySQL, PHP [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **HTRML, CSS, JavaScript, MySQL, PHP [here](https://github.com/manuchaitanya17/manuchaitanya17/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **The gyroscopic effect keeps a bike balanced.**
  
  </div>
  
