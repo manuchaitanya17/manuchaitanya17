@@ -98,14 +98,18 @@ Web Development          3 hr 25 mins        ███████████�
 Project                  1 hr 09 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 
 💻 Operating System: 
-MacOS                    9 hr 08 mins       ██████████████████████████   100.00 % 
+MacOS                    9 hr 08 mins        █████████████████████████   100.00 % 
 ```
 Last Updated on 27/08/2023 00:54:42 UTC
 
-![Metrics](https://github.com/manuchaitanya17/manuchaitanya17/blob/main/github-metrics.svg)
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+<p align="center">
+    Thanks for visiting!
+    Let's connect on Linkedin.
+    <br>
+    <b>
+      Show some ❤️ by starring some of the repositories!
+    </b>
+</p>
 
 <br/>
 
