@@ -17,13 +17,14 @@
  ⚡ Fun fact **The gyroscopic effect keeps a bike balanced.**
  
  </div>
- 
+ <h3 align = "center">
 Connect with me: </b><br>
 <br>
 <a href="www.linkedin.com/in/manuchaitanya"><img align="center" title="LinkedIn - Manu Chaitanya" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
 <a href="https://www.instagram.com/m7chaitanya/"><img align="center" title="Instagram - Manu Chaitanya" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
 <a href="mailto:root2924100@gmail.com"><img align="center" title="Mail - Manu Chaitanya" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
-
+<a href="https://medium.com/@manuchaitanya"><img align="center" title="Medium - Manu Chaitanya" alt="Medium" width="22px" src="./logos/gmail.svg" /></a>
+ </h3>
 <br>
 
  <hr/>
