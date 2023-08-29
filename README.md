@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Manu Chaitanya</h1>
-<h3 align="center">B.Tech student at Bennett University</h3>
+<h1 align="center">Hi, I'm Manu Chaitanya!</h1>
+<h3 align="center">B.Tech Second Year Student at Bennett University</h3>
 
  <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p>
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
@@ -8,14 +8,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A News APP**
+ 🔭 I’m currently working on a **E-Commerce Website**
+
+ 🦾 I’m currently solving **Leetcode Medium Level Quetsions**
  
  🌱 I’m currently learning **MERN Stack**
 
- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, PHP... and more [here](https://github.com/manuchaitanya17/manuchaitanya17/issues)**
+ 💬 Ask me about **HTML, CSS, JavaScript, MySQL, PHP... and more. Check my Repls: [Replit @manuchaitanya](https://replit.com/@ManuChaitanya)**
 
- ⚡ Fun fact **The gyroscopic effect keeps a bike balanced.**
- 
  </div>
  <h3 align = "center">
 Connect with me: </b><br>
@@ -79,26 +79,25 @@ Connect with me: </b><br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2050%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     4 hr 34 mins        █████████████░░░░░░░░░░░░   50.00 % 
-JavaScript               1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   17.88 %
-HTML, CSS Revision       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-React                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Java                     00 Hrs 00 Mins        █████████████░░░░░░░░░░░░   0 % 
+JavaScript               12 Hrs 00 Mins        █████░░░░░░░░░░░░░░░░░░░░   100 %
+HTML, CSS Revision       08 Hrs 00 Mins        ████░░░░░░░░░░░░░░░░░░░░░   100 % 
+React                    00 Hrs 00 Mins        ███░░░░░░░░░░░░░░░░░░░░░░   0 % 
 
 🐱‍💻 Projects:
-LeetCode                 4 hr 34 mins        █████████████░░░░░░░░░░░░   50.00 % 
-Web Development          3 hr 25 mins        ███████████░░░░░░░░░░░░░░   37.40 % 
-Project                  1 hr 09 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+LeetCode                 24 Hrs 00 Mins        █████████████░░░░░░░░░░░░   50.00 % 
+Web Development          18 Hrs 30 Mins        ███████████░░░░░░░░░░░░░░   37.40 % 
+Project                  01 Hrs 00 Mins        ██░░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 
-💻 Operating System: 
-MacOS                    9 hr 08 mins        █████████████████████████   100.00 % 
+💻 Intership Capstone: 
+Techinal
+Preparation              12 Hrs 00 Mins          █████████████████████████   100.00 % 
 ```
 Last Updated on 27/08/2023 00:54:42 UTC
 
