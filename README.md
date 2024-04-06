@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manu Chaitanya!</h1>
-<h3 align="center">B.Tech Second Year Student at Bennett University</h3>
+<h3 align="center">B.Tech Third Year Student at Bennett University</h3>
 
  <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p>
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
