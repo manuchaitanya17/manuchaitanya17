@@ -39,10 +39,10 @@ Connect with me: </b><br>
  <img src="https://skillicons.dev/icons?i=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://skillicons.dev/icons?i=bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://skillicons.dev/icons?i=php" />
- 
+ <img src="https://skillicons.dev/icons?i=php" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <br/>
+ <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=express" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
