@@ -1,11 +1,14 @@
+<!-- Heading -->
 <h1 align="center">Hi, I'm Manu Chaitanya!</h1>
 <h3 align="center">B.Tech Third Year Student at Bennett University</h3>
 <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p>
 
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Passionate Software Developer </h3>
 
 <br/>
 
+
+<!-- About -->
 <div align="center">
  
  🔭 I’m currently working on a **Open AI Website-Nebula AI**
@@ -21,7 +24,8 @@
  
 <br/>
 
- 
+
+ <!-- Connect -->
  <h3 align = "center">
   Connect With Me &nbsp;&nbsp;
   <a href="www.linkedin.com/in/manuchaitanya"><img align="center" title="LinkedIn - Manu Chaitanya" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>&nbsp;&nbsp;
@@ -34,7 +38,8 @@
 
 <br>
 
- 
+
+ <!-- Language Framework -->
 <h2 align="center">Languages-Frameworks-Tools ⚙️ </h2>
 <br/>
 <div align="center">
@@ -56,33 +61,28 @@
 </div>
 
 
-<br/>
+<br/><br/>
 
 
-<h2 align="center">Statistics</h2>
+<!-- Statistics -->
+<h2 align="center">Statistics 📈</h2>
 <div align=center>
-  <img width=700 src="https://github-readme-stats-salesp07.vercel.app/api?username=manuchaitanya17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=600 src="https://github-readme-stats-salesp07.vercel.app/api?username=manuchaitanya17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
  
  <br>
  
-  <img width=700 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manuchaitanya17&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=600 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manuchaitanya17&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
 <br/><br/>
-<hr/>
 
-**More on my Coding Habits:**
-<br>
-
-<!--START_SECTION:waka-->
-
-
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     00 Hrs 00 Mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   0 % 
-JavaScript               12 Hrs 00 Mins        █████████████████████████   100 %
+Java                     24 Hrs 00 Mins        █████████████░░░░░░░░░░░░   50% 
+JavaScript               12 Hrs 00 Mins        ██░░░░░░░░░░░░░░░░░░░░░░░   100 %
 HTML, CSS Revision       08 Hrs 00 Mins        █████████████████████████   100 % 
 React                    00 Hrs 00 Mins        ███░░░░░░░░░░░░░░░░░░░░░░   0 % 
 
@@ -92,8 +92,7 @@ Web Development          18 Hrs 30 Mins        ███████████
 Project                  01 Hrs 00 Mins        ██░░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 
 💻 Intership Capstone: 
-Techinal
-Preparation              12 Hrs 00 Mins        █████████████████████████   100.00 % 
+Revision              02 Hrs 00 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   100.00 % 
 ```
 Last Updated on 27/08/2023 00:54:42 UTC
 
