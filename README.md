@@ -28,7 +28,6 @@ Connect with me: </b><br>
  </h3>
 <br>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
