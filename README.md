@@ -41,7 +41,7 @@ Connect with me: </b><br>
  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://skillicons.dev/icons?i=php" />
  
- <br>
+
     <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
