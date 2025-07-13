@@ -70,7 +70,7 @@
 <div align=center>
   <img width=600 src="https://github-readme-stats-salesp07.vercel.app/api?username=manuchaitanya17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
  
-
+ <br>
  
   <img width=600 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manuchaitanya17&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
