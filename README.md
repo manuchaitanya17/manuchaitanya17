@@ -3,7 +3,8 @@
 <h3 align="center">B.Tech Final Year Student at Bennett University, Times Group || Software Developer Intern at Crowe Horwath</h3>
 <!-- <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p> -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+
 </div>  
 <h3 align="center">A Passionate Software Developer </h3>
 
