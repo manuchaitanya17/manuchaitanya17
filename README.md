@@ -70,7 +70,7 @@
 <div align=center>
   <img width=600 src="https://github-readme-stats-salesp07.vercel.app/api?username=manuchaitanya17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
  
- <br>
+
  
   <img width=600 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manuchaitanya17&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -85,7 +85,7 @@ FTE-Capstone
 Data Structures          18 Hrs 00 Mins        █████████████░░░░░░░░░░░░   
 
 
-Internship Programme-I:
+Internship Programme-I
 NS/SF Integration        24 Hrs 00 Mins        █████████████░░░░░░░░░░░░   
 Advanced PDF Layout      09 Hrs 30 Mins        ████░░░░░░░░░░░░░░░░░░░░░   
 
