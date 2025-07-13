@@ -1,8 +1,10 @@
 <!-- Heading -->
 <h1 align="center">Hi, I'm Manu Chaitanya!</h1>
 <h3 align="center">B.Tech Final Year Student at Bennett University, Times Group || Software Developer Intern at Crowe Horwath</h3>
-<p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p>
-<!-- <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="[./logos/animation.gif](https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149)" /> </p> -->
+<!-- <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p> -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="center" style="width: 100%" />
+</div>  
 <h3 align="center">A Passionate Software Developer </h3>
 
 <br/>
