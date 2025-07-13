@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on a **NetSuite-Salesforce Integration Project**
 
- 🦾 I’m currently solving ** Dynamic Programming Questions**
+ 🦾 I’m currently solving **Dynamic Programming Questions**
 
  💬 Ask me about **Dynamic Programming, Sliding Window, Advanced JS and more. Check my Repls: [Replit @manuchaitanya](https://replit.com/@ManuChaitanya)**
 
