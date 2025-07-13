@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Hi, I'm Manu Chaitanya!</h1>
-<h3 align="center">B.Tech Third Year Student at Bennett University</h3>
+<h3 align="center">B.Tech Final Year Student at Bennett University, Times Group || Software Developer Intern at Crowe Horwath</h3>
 <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p>
 
 <h3 align="center">A Passionate Software Developer </h3>
