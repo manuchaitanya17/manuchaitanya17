@@ -11,11 +11,9 @@
 <!-- About -->
 <div align="center">
  
- 🔭 I’m currently working on a **Open AI Website-Nebula AI**
+ 🔭 I’m currently working on a **NetSuite-Salesforce Integration Project**
 
  🦾 I’m currently solving **Leetcode Dynamic Programming Quetsions**
- 
- 🌱 I’m currently revising **Strings Data Structures and Algorithms**
 
  💬 Ask me about **Dynamic Programming, Sliding Window, Advanced JS and more. Check my Repls: [Replit @manuchaitanya](https://replit.com/@ManuChaitanya)**
 
